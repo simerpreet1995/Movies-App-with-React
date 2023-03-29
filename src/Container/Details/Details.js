@@ -1,10 +1,11 @@
-import React from 'react'
+import React from "react"
 
-function Details() {
+  function Details(){
+
   return (
-    <div>
-      This is Detail Container
-    </div>
+    <>
+      <h1>Hello we are in details page</h1>
+    </>    
   )
 }
 
